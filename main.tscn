@@ -184,8 +184,8 @@ use_kinematic_bodies = true
 
 [node name="360F359559044TcuTb3jwpbmAigtjvCDrn2txo0eC7Klr" type="Sprite2D" parent="."]
 show_behind_parent = true
-position = Vector2(596, 604)
-scale = Vector2(3.57969, 3.31667)
+position = Vector2(696.875, 530)
+scale = Vector2(6.03164, 6.63889)
 texture = ExtResource("7_272bh")
 
 [node name="Enemy" type="RigidBody2D" parent="."]
